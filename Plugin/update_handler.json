@@ -1,0 +1,21 @@
+[
+  
+  {
+    "Header": "TikTok Plugin",
+    "package_name": "com.tiktok.plugin",
+    "version_code": 78,
+    "force_update": true,
+    "title": "ОБНОВЛЕНИЕ ВЕРСИИ",
+    "description_type": 2,
+    "html_formatted": false,
+    "description": "Новые функции\nИсправление ошибок\nОптимизация работы",
+    "update_button_text": "ОБНОВИТЬ СЕЙЧАС",
+    "Update_dismiss_button_text": "ПОЗЖЕ",
+    "update_url": "https://www.ttanmod.in/",
+    "auto_redirect_enabled": false,
+    "auto_redirect_delay": 6,
+    "show_only_update_button": false
+  }
+  
+
+]
