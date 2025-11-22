@@ -3,8 +3,8 @@
   {
     "Header": "TikTok Gold",
     "package_name": "com.zhiliaoapp.musically",
-    "version_code": 9999999999,
-    "force_update": true,
+    "version_code": 2024109010,
+    "force_update": false,
     "title": " ОБНОВЛЕНИЕ ВЕРСИИ ",
     "description_type": 2,
     "html_formatted": false,
