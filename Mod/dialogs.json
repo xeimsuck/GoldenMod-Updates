@@ -17,7 +17,9 @@
         "title": "Обновить",
         "active_after": null,
         "type": "URL",
-        "data": "{\n  url: \"https://t.me/TikTokGoldenMod\"\n}",
+        "data": {
+          "url": "https://t.me/TikTokGoldenMod"
+        }
       }
     ]
   }
