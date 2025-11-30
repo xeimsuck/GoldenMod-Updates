@@ -9,13 +9,37 @@
     "buttons": [
       {
         "title": "Позже",
-        "active_after": null,
+        "active_after": 0,
         "type": "CLOSE",
         "data": {}
       },
       {
         "title": "Обновить",
-        "active_after": null,
+        "active_after": 0,
+        "type": "URL",
+        "data": {
+          "url": "https://t.me/TikTokGoldenMod"
+        }
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "title": "VPN для обхода глушилок!",
+    "message": "Надоело что не работает мобильный интернет? Только на этой неделе скидки! VPN обхожящий глушилки всего за 500р НА ГОД!",
+    "show_after": 9999,
+    "active": true,
+    "buttons": [
+      {
+        "title": "Нет, спасибо",
+        "active_after": 2,
+        "type": "CLOSE",
+        "data": {}
+      },
+      {
+        "title": "Наш телеграм",
+        "active_after": 0,
         "type": "URL",
         "data": {
           "url": "https://t.me/TikTokGoldenMod"
