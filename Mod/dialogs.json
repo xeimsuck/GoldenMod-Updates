@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Новая версия!",
+    "message": "Вышла новая версия TikTok v42.6.7. Обновите за 1 минуту через наш телеграмм канал!",
+    "minVersion": null,
+    "show_after": 100,
+    "active": true,
+    "viewCount": 0,
+    "buttons": [
+      {
+        "title": "Позже",
+        "active_after": null,
+        "type": "CLOSE",
+      },
+      {
+        "title": "Обновить",
+        "active_after": null,
+        "type": "URL",
+        "data": "{\n  url: \"https://t.me/TikTokGoldenMod\"\n}",
+      }
+    ]
+  }
+]
