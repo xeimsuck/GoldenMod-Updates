@@ -1,0 +1,19 @@
+[
+  
+  {
+    "Header": "TikTok Gold",
+    "package_name": "com.zhiliaoapp.musically",
+    "version_code": 2024208040,
+    "force_update": false,
+    "title": " ОБНОВЛЕНИЕ ВЕРСИИ ",
+    "description_type": 2,
+    "html_formatted": false,
+    "description": " Новые функции\nИсправление ошибок\nОптимизация работы ",
+    "update_button_text": " ОБНОВИТЬ СЕЙЧАС ",
+    "Update_dismiss_button_text": "ПОЗЖЕ ",
+    "update_url": "https://t.me/TikTokGoldenMod",
+    "auto_redirect_enabled": false,
+    "auto_redirect_delay": 5,
+    "show_only_update_button": false
+  }
+]
